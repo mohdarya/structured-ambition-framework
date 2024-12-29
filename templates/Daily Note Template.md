@@ -1,7 +1,6 @@
 ---
 tags:
   - Daily-Note
-  - Personal
   - Year-<%tp.file.creation_date("YYYY")%>
   - Q<%tp.file.creation_date("Q")%>
   - <%tp.file.creation_date("MM-MMMM")%>
@@ -244,7 +243,6 @@ What do you have on your plate for today? write out the things you need to get d
 # Today's Tasks
 #### Due Today
 ```tasks
-path does not include Board
 not done
 
 due on <% tp.file.creation_date("YYYY-MM-DD") %>
@@ -292,7 +290,6 @@ due on <% tp.file.creation_date("YYYY-MM-DD") %>
 # Tasks
 ## Over Due
 ```tasks
-path does not include Projects
 path does not include Template
 not done
 
@@ -301,7 +298,6 @@ due before <% tp.file.creation_date("YYYY-MM-DD") %>
 ```
 ## No Due Date
 ```tasks
-path does not include Projects
 path does not include Template
 not done
 

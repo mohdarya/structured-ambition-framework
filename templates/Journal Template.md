@@ -2,7 +2,6 @@
 related-notes: 
 tags:
   - Journal
-  - Personal
   - Year-<%tp.file.creation_date("YYYY")%>
   - Q<%tp.file.creation_date("Q")%>
   - <%tp.file.creation_date("MM-MMMM")%>

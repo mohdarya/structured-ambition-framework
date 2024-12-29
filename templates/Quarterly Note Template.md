@@ -13,7 +13,7 @@ _This note helps you set specific, actionable milestones for the next three mont
 >[!info] How to align with your vision?  
 _Remind yourself of the yearly vision and use it as a compass to set quarterly goals. Define steps that bring your aspirations closer to reality._
 
-![[Personal/Periodic Notes/Yearly Notes/<%tp.file.creation_date("YYYY")%>#Vision]]
+![[Periodic Notes/Yearly Notes/<%tp.file.creation_date("YYYY")%>#Vision]]
 
 ---
 # Personal Reflection

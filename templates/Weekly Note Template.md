@@ -16,7 +16,7 @@ _This note helps you break down your goals and priorities into actionable steps 
 >[!info] Stay motivated  
 _Break down your monthly goals into smaller, actionable steps for the week. Focus on building momentum and making consistent progress._
 
-![[Personal/Periodic Notes/Monthly Notes/<%tp.file.creation_date("YYYY")%>/Q<%tp.file.creation_date("Q")%>/<%tp.file.creation_date("MM-MMMM")%>#Planning]]
+![[Periodic Notes/Monthly Notes/<%tp.file.creation_date("YYYY")%>/Q<%tp.file.creation_date("Q")%>/<%tp.file.creation_date("MM-MMMM")%>#Planning]]
 
 ---
 # Personal Reflection

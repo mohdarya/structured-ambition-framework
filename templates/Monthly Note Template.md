@@ -15,7 +15,7 @@ _This note serves as a roadmap for your month, connecting your quarterly goals t
 >[!info] How to align with your goals?  
 _Reflect on your quarterly goals and create a focused monthly plan to move closer to achieving them. Break these down into actionable steps for the coming weeks._
 
-![[Personal/Periodic Notes/Quarterly Notes/<%tp.file.creation_date("YYYY")%>/Q<%tp.file.creation_date("Q")%>#Goals]]
+![[Periodic Notes/Quarterly Notes/<%tp.file.creation_date("YYYY")%>/Q<%tp.file.creation_date("Q")%>#Goals]]
 
 ---
 # Personal Reflection
