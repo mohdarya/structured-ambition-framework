@@ -78,8 +78,10 @@ For the **Quick Capture Template**:
    - Monthly Notes  
    - Quarterly Notes
    - Yearly Notes
-1. Ensure that each template is linked to its designated path set in the Templates section above.
-2. 
+   - Quick Capture Note
+
+3. Ensure that each template is linked to its designated path set in the Templates section above.
+
 ### Daily Notes
 
 1. Set the **Date Format** for the daily notes to the following structure:  
