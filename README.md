@@ -3,7 +3,7 @@ these files are a companion to the "Structured Ambition Framework: How to Plan, 
 
 the framework is designed to help the user in creating visions for their year and provide tools to give life to these visions.
 
-more information can be found in the blog post here: https://blog.mohdarya.com/blog/structured-ambition-framework-how-to-plan-reflect-and-achieve-with-obsidian/
+more information can be found in the blog post here on my [blog](https://blog.mohdarya.com/blog/structured-ambition-framework-how-to-plan-reflect-and-achieve-with-obsidian/)
 # Components 
 
 ## Templates
